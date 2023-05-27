@@ -1,0 +1,8 @@
+.dockerignore
+.git
+.gitignore
+Dockerfile
+Gemfile.lock
+LICENSE
+README.rst
+_site
